@@ -1,0 +1,15 @@
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/bin/Debug/net10.0/EjerciciosCSharp
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/bin/Debug/net10.0/EjerciciosCSharp.deps.json
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/bin/Debug/net10.0/EjerciciosCSharp.runtimeconfig.json
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/bin/Debug/net10.0/EjerciciosCSharp.dll
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/bin/Debug/net10.0/EjerciciosCSharp.pdb
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.AssemblyInfoInputs.cache
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.AssemblyInfo.cs
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.csproj.CoreCompileInputs.cache
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.sourcelink.json
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.dll
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/refint/EjerciciosCSharp.dll
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.pdb
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/EjerciciosCSharp.genruntimeconfig.cache
+/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/Debug/net10.0/ref/EjerciciosCSharp.dll
