@@ -64,7 +64,8 @@ namespace EjerciciosCSharp
             // TODO: Implementar esta función
             // PISTAS:
             // 1. Crea una variable acumulador inicializada en 0
-            // 2. Usa un bucle 'while' o 'foreach' para recorrer los números
+            // 2. Usa un bucle 'foreach' para recorrer los números ya que es una lista
+            // osea tendra numero diversos numeros aleatorios ejemplo: 50, 10, 30, 44 ...
             // 3. Si encuentras un 0, detén el bucle (usa 'break')
             // 4. Suma cada número al acumulador antes de verificar si es 0
             // 5. Retorna el acumulador al final

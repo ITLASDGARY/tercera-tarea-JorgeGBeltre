@@ -183,9 +183,9 @@ namespace EjerciciosCSharp.Tests
 
             // Assert
             // Verificar que no contiene números impares
-            Assert.DoesNotContain(" 1", resultado);
-            Assert.DoesNotContain(" 3", resultado);
-            Assert.DoesNotContain(" 49", resultado);
+            Assert.DoesNotContain(" 1,", resultado);
+            Assert.DoesNotContain(" 3,", resultado);
+            Assert.DoesNotContain(" 49,", resultado);
         }
 
         [Fact]
